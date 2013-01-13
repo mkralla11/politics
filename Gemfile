@@ -40,6 +40,8 @@ gem 'devise-encryptable'
 #pagination
 gem 'kaminari'
 
+#Renaming the domain name
+gem 'rack-canonical-host'
 
 
 group :production do
